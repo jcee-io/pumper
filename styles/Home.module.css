@@ -1,3 +1,21 @@
+.main-nav {
+  height: 67px;
+}
+
+.logo {
+  width: 110px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.flame-icon, .pumper-text {
+  height: 20px;
+}
+
+.pumper-text {
+  transform: translateY(5px);
+}
+
 .container {
   padding: 0 2rem;
 }
